@@ -1,0 +1,19 @@
+{
+  "name": "lola",
+  "symbol": "lla",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "A7nHuSuwT5vS3CByTjVNuSszDj14SvkMu4rCwEtCm9qK",
+        "share": 100
+      }
+    ]
+  }
+}
